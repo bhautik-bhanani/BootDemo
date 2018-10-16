@@ -25,6 +25,7 @@ Docker:
   - To run application, use IP address or for local machine use "localhost" followed by port number "5000" as per mentioned into command.
 
 Database queries to create tables:
+
 Book ==> 
       DROP TABLE IF EXISTS book;
       CREATE TABLE IF NOT EXISTS book ( 
